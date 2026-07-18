@@ -1,46 +1,77 @@
-DataStructure & Alogrithm 
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<h1 align="center">🚀 Data Structures & Algorithms</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Structures+%26+Algorithms;LeetCode+Journey;Coding+Interview+Preparation;Problem+Solving+with+C%2B%2B" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+</p>
+
+---
+
+## 📖 About
+
+This repository contains my **Data Structures & Algorithms** solutions for coding interview preparation. I regularly solve LeetCode problems and organize them topic-wise to improve problem-solving skills and strengthen my understanding of algorithms.
+
+---
+
+## 🛠 Topics Covered
+
+- 📦 Arrays
+- 🔤 Strings
+- 👆 Two Pointers
+- 🔍 Binary Search
+- 🌳 Trees
+- 🌐 Graphs
+- 📚 Stack & Queue
+- 🧠 Dynamic Programming
+- ⚡ Greedy
+- 🔄 Recursion & Backtracking
+- 🌲 Trie
+- 🗺 Hash Table
+
+---
+
+## 🎯 Goals
+
+- ✅ Strengthen DSA concepts
+- ✅ Solve LeetCode problems consistently
+- ✅ Improve coding interview skills
+- ✅ Write optimized solutions
+
+---
+
+## 📈 Repository Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshsuyal&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshsuyal&theme=tokyonight"/>
+</p>
+
+---
+
+## 📂 Topics
+
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0014-longest-common-prefix) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0027-remove-element) |
-| [0035-search-insert-position](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0035-search-insert-position) |
-| [0066-plus-one](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0066-plus-one) |
-| [0283-move-zeroes](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0283-move-zeroes) |
-| [0704-binary-search](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0704-binary-search) |
-## String
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0013-roman-to-integer) |
-| [0014-longest-common-prefix](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0014-longest-common-prefix) |
-| [0344-reverse-string](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0344-reverse-string) |
-## Trie
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0014-longest-common-prefix) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0027-remove-element) |
-| [0283-move-zeroes](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0283-move-zeroes) |
-| [0344-reverse-string](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0344-reverse-string) |
-## Binary Search
-|  |
-| ------- |
-| [0035-search-insert-position](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0035-search-insert-position) |
-| [0704-binary-search](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0704-binary-search) |
-## Hash Table
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0013-roman-to-integer) |
-## Math
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0013-roman-to-integer) |
-| [0066-plus-one](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0066-plus-one) |
+(Add your generated LeetCode topics here)
 <!---LeetCode Topics End-->
+
+---
+
+## 🌟 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/ansh-suyal
+- 🌐 Portfolio: https://myportfolio-lemon-two-89.vercel.app
+- 💻 GitHub: https://github.com/anshsuyal
+
+---
+
+<p align="center">
+  ⭐ If you find this repository helpful, don't forget to star it!
+</p>
