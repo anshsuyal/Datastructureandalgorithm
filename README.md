@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0704-binary-search) |
 ## String
@@ -40,9 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0066-plus-one) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/anshsuyal/Datastructureandalgorithm/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End--> change the animation way
