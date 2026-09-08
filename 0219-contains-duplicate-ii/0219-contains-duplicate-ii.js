@@ -10,7 +10,6 @@ var containsNearbyDuplicate = function(nums, k) {
                 return true;
             }
         }
-
         map.set(nums[i], i);
     }
 
